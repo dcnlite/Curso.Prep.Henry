@@ -1,0 +1,14 @@
+* Variables: 
+    Una variable es un dato. Existen varios tipos de variables(string, numeros y booleanos), y 3 formas de declararlas(var, let, const)
+
+* Strings:
+    Es un tipo de dato que consiste en una cadena de texto.
+
+* Funciones (argumentos, `return`):
+    Es una herramienta que permite manipular dos datos. Los argumentos son los datos que se van a manipular. El return es una herramienta que permite devolver el resultado de la funcion para hacerlo disponible para el resto del código y que no quede "dentro de la funcion solamente".
+
+* Declaraciones `if`:
+    Es una declaración que plantea una condición, para que si ésta se cumple, dé un resultado y sino se cumple, de otro resultado.
+
+* Valores booleanos (`true`, `false`):
+    Los booleanos  son un tipo de dato que solo permite los valores de Verdadero(true) o Falso(false).
