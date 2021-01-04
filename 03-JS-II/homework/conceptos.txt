@@ -1,0 +1,7 @@
+* for: es un tipo de bucle que permite probar valores y operaciones hasta alcanzar el resultado esperado, por medio de condiciones. En cada ciclo de prueba se pueden programar el aumento automatizado de un valor como así tambien otras operaciones.
+
+* "&&" Significa "Y". Permite ver si 2 variables o expresiones son iguales.
+
+* "||" Significa "O". Permite plantear opciones para el cumplimiento de una condición.
+
+* "!" Significa "!! Significa "NO". Plantea la evaluacíon dentro de una condición pero de manera negativa. Es decir, "sino se cumple tal cosa... Hacer esto"
